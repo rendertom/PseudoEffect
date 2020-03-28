@@ -10,7 +10,7 @@ A helper class for Adobe After Effects to apply Pseudo Effects as Animation Pres
 
 ### Prerequisites ###
 
-1. **Binary string**. Class expects a binary string of Animation Preset. To convert Animation Preset (*.ffx) file into a binary string use [convert-to-binary](https://bitbucket.org/rendertom/convert-to-binary/) tool.
+1. **binaryString**. Class expects a binary string of Animation Preset. To convert Animation Preset (*.ffx) file into a binary string use [convert-to-binary](https://bitbucket.org/rendertom/convert-to-binary/) tool.
 
 2. **matchName**. While not required, it is highly recommended to provide the matchName of the Pseudo Effect. Use [rd: Gimme Prop Path](http://www.redefinery.com/ae/view.php?item=rd_GimmePropPath) to find out the matchName.
 

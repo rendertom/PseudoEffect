@@ -34,7 +34,7 @@ PseudoEffect.push(
  */
 
 // If matchName is known, use
-var matchName = 'effects matchName'.
+var matchName = 'effects matchName';
 PseudoEffect.applyByMatchName(layer, matchName);
 
 // If effects matchName is unknown, but you know its index in cache, then use
